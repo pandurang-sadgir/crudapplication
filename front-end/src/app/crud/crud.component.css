@@ -1,0 +1,21 @@
+.example-card {
+  max-width: 800px;
+}
+
+.example-header-image {
+  background-image: url('../Images/A.png');
+  background-size: cover;
+}
+table {
+  width: 100%;
+}
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+td, th {
+  width: 25%;
+}
+
